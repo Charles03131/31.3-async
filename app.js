@@ -4,8 +4,6 @@
 //(http://numbersapi.com/) to get a fact about your favorite number. 
 //(Make sure you get back JSON by including the json query key, specific to this API. Details.
 
-SameSite=None, Secure;
-
 
 let favoriteNumber=3;
 
